@@ -1,14 +1,16 @@
 # Hometask11-K8s-Deploying
 
-### Execution:
-1. Prepare 2 VMs (kubemaster and kubenode) with the same parametrs (4 CPU, 8 GB RAM, Ubuntu)
+## Execution:
+### Prepare 2 VMs (kubemaster and kubenode) with the same parametrs (4 CPU, 8 GB RAM, Ubuntu)
 ![image](https://user-images.githubusercontent.com/102364456/216151063-fb29a747-fcc8-45e2-8ea8-9986a144da9d.jpg)
 <img src="https://user-images.githubusercontent.com/102364456/216150879-b280000e-1a1b-4a52-aeae-12a50ba98ceb.jpg" height="600"/></h1>
 <img src="https://user-images.githubusercontent.com/102364456/216150769-58a82ead-2585-453d-9572-334945fd8d73.jpg" height="400"/></h1>
 
-2. Connect via SSH to VMs
-![image](https://user-images.githubusercontent.com/102364456/216151135-3194516d-390c-47de-b0cd-b6738209537f.jpg)
-#### 3.Run commands in two VMs (kubemaster and kubenode)
+### Connect via SSH to VMs 
+
+![image](https://user-images.githubusercontent.com/102364456/216151135-3194516d-390c-47de-b0cd-b6738209537f.jpg) 
+
+### Run commands in two VMs (kubemaster and kubenode)
 ```
 sudo apt update
 sudo apt upgrade -y
