@@ -154,6 +154,9 @@ Wait when all pods will be ready: `kubectl get pods --all-namespaces -w`
 
 `kubectl get nodes -o wide` 
 
-![image](https://user-images.githubusercontent.com/102364456/216153068-873eddfa-7ab8-49d4-a6d4-caa9e7abf5ff.jpg)
+![image](https://user-images.githubusercontent.com/102364456/216153068-873eddfa-7ab8-49d4-a6d4-caa9e7abf5ff.jpg) 
+
+Successfully deployed Kubernetes!
+
  
 
